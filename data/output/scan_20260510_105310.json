@@ -1,0 +1,52 @@
+{
+  "product_url": "https://www.zepto.com/pn/bigmuscles-nutrition-nitric-whey-unflavoured/pvid/102f68ed-f550-488c-b16d-15b912608957",
+  "scanned_at": "2026-05-10T10:53:10.980383",
+  "total_stores": 3,
+  "results": [
+    {
+      "store_name": "GGN-Sector 95",
+      "store_lat": 28.410694,
+      "store_lng": 76.90725,
+      "delivery_lat": 28.40905,
+      "delivery_lng": 76.909051,
+      "product_name": "Bigmuscles Nutrition Nitric Whey Unflavoured",
+      "mrp": 2699.0,
+      "selling_price": 1215.0,
+      "discount_pct": 55.0,
+      "in_stock": true,
+      "delivery_eta": null,
+      "scanned_at": "2026-05-10T10:52:06.782350",
+      "error": null
+    },
+    {
+      "store_name": "GGN-Sector 86",
+      "store_lat": 28.394882,
+      "store_lng": 76.933179,
+      "delivery_lat": 28.393925,
+      "delivery_lng": 76.93404,
+      "product_name": "Bigmuscles Nutrition Nitric Whey Unflavoured",
+      "mrp": 2699.0,
+      "selling_price": 1215.0,
+      "discount_pct": 55.0,
+      "in_stock": true,
+      "delivery_eta": null,
+      "scanned_at": "2026-05-10T10:52:28.580880",
+      "error": null
+    },
+    {
+      "store_name": "GGN- Sector 82",
+      "store_lat": 28.39908847,
+      "store_lng": 76.95452254,
+      "delivery_lat": 28.397773,
+      "delivery_lng": 76.955838,
+      "product_name": "Bigmuscles Nutrition Nitric Whey Unflavoured",
+      "mrp": 2699.0,
+      "selling_price": 1215.0,
+      "discount_pct": 55.0,
+      "in_stock": true,
+      "delivery_eta": null,
+      "scanned_at": "2026-05-10T10:52:49.094870",
+      "error": null
+    }
+  ]
+}

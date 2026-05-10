@@ -1,0 +1,4 @@
+store_name,store_lat,store_lng,delivery_lat,delivery_lng,product_name,mrp,selling_price,discount_pct,in_stock,delivery_eta,scanned_at,error
+GGN-Sector 95,28.410694,76.90725,28.40946,76.908232,Bigmuscles Nutrition Nitric Whey Unflavoured,2699.0,1215.0,55.0,True,,2026-05-10T16:50:31.892037,
+GGN-Sector 86,28.394882,76.933179,28.394658,76.933028,Bigmuscles Nutrition Nitric Whey Unflavoured,2699.0,1215.0,55.0,True,,2026-05-10T16:50:53.011362,
+GGN- Sector 82,28.39908847,76.95452254,28.399308,76.956398,Bigmuscles Nutrition Nitric Whey Unflavoured,2699.0,1215.0,55.0,True,,2026-05-10T16:51:11.404062,

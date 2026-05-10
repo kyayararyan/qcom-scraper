@@ -1,0 +1,4 @@
+store_name,store_lat,store_lng,pincode,area,product_name,mrp,selling_price,discount_pct,in_stock,delivery_eta,scanned_at,error
+GGN-Sector 95,28.410694,76.90725,122505,Sector 92,Bigmuscles Nutrition Nitric Whey Unflavoured,2699.0,1532.0,43.2,False,,2026-05-10T17:01:36.971028,
+GGN-Sector 86,28.394882,76.933179,122050,Sector 87,,,,,,,2026-05-10T17:02:16.174205,Could not find location selector
+GGN-Sector 70 A,28.38621,77.02198,122015,Sector 70A,,,,,,,2026-05-10T17:02:18.702889,Could not find location selector
