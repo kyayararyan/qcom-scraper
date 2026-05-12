@@ -1,0 +1,16 @@
+area,delivery_eta,discount_pct,error,in_stock,mrp,pincode,product_name,scanned_at,selling_price,store_lat,store_lng,store_name
+,6 min,43.2,,False,2699.0,411048,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:38:46.817638,1532.0,18.44510808,73.88534402,PUN-Katraj
+,,43.2,,False,2699.0,411046,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:39:07.404673,1532.0,18.4485458,73.8363517,PUN-Ambegaon
+,8 min,43.2,,False,2699.0,411060,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:39:25.027378,1532.0,18.44904007,73.91126583,PUN-Undri
+Shivane,8 min,43.2,,True,2699.0,411024,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:39:41.212351,1532.0,18.45723905,73.7871817,PUN-Nanded City
+Kondhwa,6 min,43.2,,False,2699.0,411018,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:39:59.914549,1532.0,18.46877196,73.90035156,PUN-NIBM ROAD
+Krushna Nagar,6 min,43.2,,False,2699.0,411028,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:40:17.203635,1532.0,18.48067137,73.92812434,PUN-HADAPSAR
+Tukai Nagar,9 min,43.2,,False,2699.0,411051,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:40:37.719837,1532.0,18.481515,73.825156,PUN-SINHGAD
+Bavdhan Budruk,6 min,43.2,,False,2699.0,411021,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:40:58.956824,1532.0,18.5189577,73.76990496,PUN-Bavdhan
+,10 min,43.2,,False,2699.0,411036,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:41:18.440374,1532.0,18.52101836,73.93595721,PUN-Amanora
+Ghorpuri,8 min,43.2,,False,2699.0,411001,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:41:39.425557,1532.0,18.53356905,73.88536766,PUN_KOREGAON PARK
+Harinagar,,43.2,,False,2699.0,411011,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:41:55.674620,1532.0,18.55383756,73.90595708,PUN-Kalyani Nagar
+Aundh,8 min,43.2,,False,2699.0,411027,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:42:14.108947,1532.0,18.5503786,73.8097831,PUN-AUNDH
+Keshav Nagar,,43.2,,False,2699.0,411023,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:42:31.738056,1532.0,18.54871,73.94934,PUN-KHARADI
+Ward 6,7 min,43.2,,False,2699.0,411014,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:43:01.230022,1532.0,18.56733646,73.90759408,PUN-Viman Nagar New
+Sus Gaon,,,No suggestions for pin 411405,,,411405,,2026-05-12T13:43:18.541094,,18.55062493,73.7632809,PUN-Baner Network-2

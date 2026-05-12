@@ -1,0 +1,16 @@
+area,delivery_eta,discount_pct,error,in_stock,mrp,pincode,product_name,scanned_at,selling_price,store_lat,store_lng,store_name
+Colaba,5 min,43.2,,False,2699.0,400005,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:15:34.459300,1532.0,18.91248758,72.82453235,MUM-Colaba
+Fort,8 min,43.2,,False,2699.0,400001,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:15:51.260365,1532.0,18.93769313,72.83331561,MUM-Fort
+Malabar Hill,12 min,43.2,,False,2699.0,400006,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:16:08.584658,1532.0,18.95189266,72.79484352,MUM-Malabar Hill
+Girgaon,7 min,43.2,,False,2699.0,400004,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:16:40.421974,1532.0,18.95725247,72.81948612,MUM-Girgaon
+Cumballa Hill,14 min,43.2,,False,2699.0,400026,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:16:57.301315,1532.0,18.9676669,72.81718615,MUM-MUMBAI CENTRAL
+Cotton Green,24 min,43.2,,False,2699.0,400033,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:17:15.707404,1532.0,18.99228242,72.84805585,Mum-Parel
+Mahalakshmi,6 min,75.0,,True,2699.0,400018,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:17:34.989524,675.0,18.992952,72.82207664,MUM-Worli
+Lower Parel,7 min,75.0,,True,2699.0,400013,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:17:55.036658,675.0,18.999098,72.830425,MUM-LOWER PAREL NEW
+Matunga East,7 min,43.2,,False,2699.0,400014,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:18:13.149163,1532.0,19.0125566,72.8498979,MUM-DADAR EAST
+Prabhadevi,5 min,43.2,,False,2699.0,400025,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:18:30.315080,1532.0,19.01204326,72.82966651,MUM-Sumer Trinity
+Dadar West,8 min,43.2,,False,2699.0,400028,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:18:50.816541,1532.0,19.01505491,72.83806561,MUM- Lower Parel Network
+Mahim,4 min,43.2,,False,2699.0,400016,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:19:08.836072,1532.0,19.04216016,72.84312361,MUM-Mahim
+Indira Nagar,23 min,41.1,,False,2599.0,400037,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:19:27.699050,1532.0,19.03411447,72.87563451,MUM-Wadala
+G/N Ward,11 min,43.2,,False,2699.0,400017,Bigmuscles Nutrition Nitric Whey Unflavoured,2026-05-12T13:19:44.379874,1532.0,19.0484056,72.8593943,MUM-Dharavi
+Dongri,,,No suggestions for pin 200008,,,200008,,2026-05-12T13:20:03.905753,,18.963986,72.840103,MUM-Parel Network 2

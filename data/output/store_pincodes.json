@@ -670,5 +670,1445 @@
   "28.375138,77.327767": {
     "pincode": "121001",
     "area": ""
+  },
+  "18.91248758,72.82453235": {
+    "pincode": "400005",
+    "area": "Colaba"
+  },
+  "18.93769313,72.83331561": {
+    "pincode": "400001",
+    "area": "Fort"
+  },
+  "18.95189266,72.79484352": {
+    "pincode": "400006",
+    "area": "Malabar Hill"
+  },
+  "18.963986,72.840103": {
+    "pincode": "200008",
+    "area": "Dongri"
+  },
+  "18.95725247,72.81948612": {
+    "pincode": "400004",
+    "area": "Girgaon"
+  },
+  "18.9676669,72.81718615": {
+    "pincode": "400026",
+    "area": "Cumballa Hill"
+  },
+  "18.99228242,72.84805585": {
+    "pincode": "400033",
+    "area": "Cotton Green"
+  },
+  "18.992952,72.82207664": {
+    "pincode": "400018",
+    "area": "Mahalakshmi"
+  },
+  "18.999098,72.830425": {
+    "pincode": "400013",
+    "area": "Lower Parel"
+  },
+  "19.0125566,72.8498979": {
+    "pincode": "400014",
+    "area": "Matunga East"
+  },
+  "19.01204326,72.82966651": {
+    "pincode": "400025",
+    "area": "Prabhadevi"
+  },
+  "19.01505491,72.83806561": {
+    "pincode": "400028",
+    "area": "Dadar West"
+  },
+  "19.04216016,72.84312361": {
+    "pincode": "400016",
+    "area": "Mahim"
+  },
+  "19.03411447,72.87563451": {
+    "pincode": "400037",
+    "area": "Indira Nagar"
+  },
+  "19.0484056,72.8593943": {
+    "pincode": "400017",
+    "area": "G/N Ward"
+  },
+  "19.052412,72.90155": {
+    "pincode": "400071",
+    "area": "Deonar"
+  },
+  "19.05033,72.9095": {
+    "pincode": "400088",
+    "area": "Deonar"
+  },
+  "19.06253386,72.82817204": {
+    "pincode": "400050",
+    "area": "Khar"
+  },
+  "19.05900095,72.89085733": {
+    "pincode": "400089",
+    "area": "Chembur"
+  },
+  "19.0705956,72.83963739": {
+    "pincode": "400052",
+    "area": "Khar"
+  },
+  "19.0665482,72.84795197": {
+    "pincode": "400051",
+    "area": "Bandra East"
+  },
+  "19.07162685,72.86546832": {
+    "pincode": "400098",
+    "area": "Bandra Kurla Complex"
+  },
+  "19.08264128,72.87952775": {
+    "pincode": "400070",
+    "area": "Kurla West"
+  },
+  "19.06785932,72.8986223": {
+    "pincode": "400012",
+    "area": "Chheda Nagar"
+  },
+  "19.08670969,72.8361653": {
+    "pincode": "400054",
+    "area": "Vile Parle West"
+  },
+  "19.0862533,72.9018333": {
+    "pincode": "400086",
+    "area": "Ghatkopar West"
+  },
+  "19.10486962,72.83888637": {
+    "pincode": "400057",
+    "area": "Vile Parle West"
+  },
+  "19.10068894,72.85325786": {
+    "pincode": "400057",
+    "area": "Andheri East"
+  },
+  "19.10881615,72.88048553": {
+    "pincode": "400072",
+    "area": "Saki Naka"
+  },
+  "19.110294,72.8867926": {
+    "pincode": "400072",
+    "area": "Chandivali"
+  },
+  "19.096821,72.906784": {
+    "pincode": "400071",
+    "area": "Ghatkopar West"
+  },
+  "19.11673614,72.85845223": {
+    "pincode": "400093",
+    "area": "Andheri East"
+  },
+  "19.11126859,72.8930008": {
+    "pincode": "400072",
+    "area": "Chandivali"
+  },
+  "19.1183474,72.9050423": {
+    "pincode": "400076",
+    "area": "Powai"
+  },
+  "19.13389588,72.8139297": {
+    "pincode": "400061",
+    "area": "K/W Ward"
+  },
+  "19.13490847,72.83589319": {
+    "pincode": "400047",
+    "area": "Jogeshwari West"
+  },
+  "19.122382,72.86289": {
+    "pincode": "400093",
+    "area": "MIDC"
+  },
+  "19.11564642,72.88302819": {
+    "pincode": "400072",
+    "area": "Saki Naka"
+  },
+  "19.12824417,72.93787759": {
+    "pincode": "400042",
+    "area": "Bhandup East"
+  },
+  "19.1348674,72.8254786": {
+    "pincode": "400053",
+    "area": "Versova"
+  },
+  "19.1363314,72.8500343": {
+    "pincode": "400060",
+    "area": "MIDC"
+  },
+  "19.1453923,72.932539": {
+    "pincode": "400078",
+    "area": "Bhandup West"
+  },
+  "19.14436,72.837044": {
+    "pincode": "400102",
+    "area": "Oshiwara"
+  },
+  "19.14982153,72.84506828": {
+    "pincode": "400102",
+    "area": "Goregaon West"
+  },
+  "19.1708709,72.8536443": {
+    "pincode": "400063",
+    "area": "Goregaon East"
+  },
+  "19.1614372,72.9367809": {
+    "pincode": "400082",
+    "area": "Nahur"
+  },
+  "19.1723881,72.8484384": {
+    "pincode": "400062",
+    "area": "Goregaon East"
+  },
+  "19.17479213,72.87416005": {
+    "pincode": "400063",
+    "area": "Malad East"
+  },
+  "19.1710333,72.9428368": {
+    "pincode": "400082",
+    "area": "Mulund Colony"
+  },
+  "19.16523688,72.96329865": {
+    "pincode": "400081",
+    "area": "Mulund East"
+  },
+  "19.19617471,72.94593367": {
+    "pincode": "400604",
+    "area": "Wagle Industrial Estate"
+  },
+  "19.20472507,72.82723531": {
+    "pincode": "400067",
+    "area": "Charkop"
+  },
+  "19.18963269,72.83888913": {
+    "pincode": "400064",
+    "area": "Orlem"
+  },
+  "19.19405204,72.86572139": {
+    "pincode": "400101",
+    "area": "Kandivali East"
+  },
+  "19.19841478,72.97405999": {
+    "pincode": "400602",
+    "area": "Uthalsar"
+  },
+  "19.20052626,72.96042612": {
+    "pincode": "400606",
+    "area": "Panch Pakadi"
+  },
+  "19.20992428,72.82369507": {
+    "pincode": "900092",
+    "area": "Charkop"
+  },
+  "19.21321673,72.84813124": {
+    "pincode": "400067",
+    "area": "R/C Ward"
+  },
+  "19.2138889,72.8685556": {
+    "pincode": "400101",
+    "area": "Thakur Village"
+  },
+  "19.21659162,72.9757421": {
+    "pincode": "400609",
+    "area": "Majiwada"
+  },
+  "19.22356982,72.85172035": {
+    "pincode": "400066",
+    "area": "R/C Ward"
+  },
+  "19.219176,72.954332": {
+    "pincode": "200014",
+    "area": "Shivai Nagar"
+  },
+  "19.24075,72.8359167": {
+    "pincode": "400091",
+    "area": "R/C Ward"
+  },
+  "19.2367013,72.96898783": {
+    "pincode": "400610",
+    "area": "Kokanipada"
+  },
+  "19.2404431,72.8670403": {
+    "pincode": "400068",
+    "area": "Dahisar East"
+  },
+  "19.2495658,72.9747437": {
+    "pincode": "400610",
+    "area": "Dongaripada"
+  },
+  "19.26571464,72.967804": {
+    "pincode": "400615",
+    "area": "Anand Nagar"
+  },
+  "19.270811,72.88152621": {
+    "pincode": "401104",
+    "area": "Kashimira"
+  },
+  "19.2764529,72.95811157": {
+    "pincode": "400615",
+    "area": "Bhayander Pada"
+  },
+  "19.28087099,72.87677473": {
+    "pincode": "401107",
+    "area": "Kashimira"
+  },
+  "19.29990081,72.85527356": {
+    "pincode": "401105",
+    "area": "Bhayander East"
+  },
+  "19.11838541,72.99761508": {
+    "pincode": "400701",
+    "area": "Ghansoli"
+  },
+  "19.08575657,72.99873719": {
+    "pincode": "400703",
+    "area": "Vashi"
+  },
+  "19.16459083,72.99547915": {
+    "pincode": "400708",
+    "area": "Airoli"
+  },
+  "19.1499223,73.0439121": {
+    "pincode": "400612",
+    "area": "Shill Phata"
+  },
+  "19.20067835,73.00029164": {
+    "pincode": "400603",
+    "area": "Jambli Naka"
+  },
+  "19.220213,72.986282": {
+    "pincode": "400608",
+    "area": "Kapur Bawadi"
+  },
+  "19.228714,72.9858148": {
+    "pincode": "400608",
+    "area": "Dhokali"
+  },
+  "12.78979486,77.70420581": {
+    "pincode": "562107",
+    "area": "Iggaluru"
+  },
+  "12.79803706,77.66311187": {
+    "pincode": "560099",
+    "area": "Kyalsanahalli"
+  },
+  "12.81998463,77.66277018": {
+    "pincode": "560099",
+    "area": "Thirupalya"
+  },
+  "12.8373766,77.64362247": {
+    "pincode": "560100",
+    "area": "Hulimangala"
+  },
+  "12.83610023,77.66492453": {
+    "pincode": "560100",
+    "area": "Gollahalli"
+  },
+  "12.8321446,77.69085963": {
+    "pincode": "560100",
+    "area": "Anantnagar"
+  },
+  "12.84495985,77.59398467": {
+    "pincode": "560083",
+    "area": "Doddakammanahalli"
+  },
+  "12.86077262,77.61333628": {
+    "pincode": "560076",
+    "area": "Beguru"
+  },
+  "12.852472,77.675972": {
+    "pincode": "560100",
+    "area": ""
+  },
+  "12.864209,77.569285": {
+    "pincode": "560083",
+    "area": "Kothanur"
+  },
+  "12.85202043,77.65224877": {
+    "pincode": "560100",
+    "area": ""
+  },
+  "12.86423227,77.77015527": {
+    "pincode": "562125",
+    "area": "Somapura"
+  },
+  "12.8666929,77.5357013": {
+    "pincode": "560109",
+    "area": "Talagattapura"
+  },
+  "12.86034948,77.54171841": {
+    "pincode": "560062",
+    "area": "Talagattapura"
+  },
+  "12.86922,77.58182": {
+    "pincode": "560076",
+    "area": "Kothnur"
+  },
+  "12.86591329,77.59627361": {
+    "pincode": "560076",
+    "area": "Yelenahalli"
+  },
+  "12.87771825,77.64508193": {
+    "pincode": "560114",
+    "area": "Singasandra"
+  },
+  "12.86296,77.67777": {
+    "pincode": "560100",
+    "area": ""
+  },
+  "12.87747,77.60264": {
+    "pincode": "560076",
+    "area": "Hulimavu"
+  },
+  "12.86837,77.61872": {
+    "pincode": "560076",
+    "area": "Beguru"
+  },
+  "12.870083,77.659171": {
+    "pincode": "560100",
+    "area": "Naganathapura"
+  },
+  "12.88438622,77.54084471": {
+    "pincode": "560062",
+    "area": "Subramanyapura"
+  },
+  "12.8845944,77.55881835": {
+    "pincode": "560062",
+    "area": "Anjanapura"
+  },
+  "12.887526,77.586572": {
+    "pincode": "560076",
+    "area": "RBI Layout"
+  },
+  "12.89027,77.62579": {
+    "pincode": "560076",
+    "area": "Devarachikkanahalli"
+  },
+  "12.8821174,77.6733285": {
+    "pincode": "560035",
+    "area": "Naganathapura"
+  },
+  "12.89481283,77.56436304": {
+    "pincode": "560111",
+    "area": "Yelachenahalli"
+  },
+  "12.89581,77.58179": {
+    "pincode": "560078",
+    "area": "Puttenahalli"
+  },
+  "12.89932425,77.60549641": {
+    "pincode": "560076",
+    "area": "Bilekahalli"
+  },
+  "12.8906552,77.6456667": {
+    "pincode": "560068",
+    "area": "Kudlu"
+  },
+  "12.89366814,77.66299978": {
+    "pincode": "560103",
+    "area": "Kudlu"
+  },
+  "12.90252,77.68669": {
+    "pincode": "560035",
+    "area": "Kasavanahalli"
+  },
+  "12.90619582,77.69767734": {
+    "pincode": "560035",
+    "area": "Doddakannalli"
+  },
+  "12.908522,77.71151": {
+    "pincode": "560087",
+    "area": "Gunjur"
+  },
+  "12.9031547,77.51191762": {
+    "pincode": "560098",
+    "area": "Bangarappa Nagara"
+  },
+  "12.91552164,77.5456912": {
+    "pincode": "560061",
+    "area": "Sarvabhouma Nagar"
+  },
+  "12.9036896,77.62857765": {
+    "pincode": "560068",
+    "area": "Garvebavi Palya"
+  },
+  "12.905778,77.637514": {
+    "pincode": "560068",
+    "area": "Mangammana Palya"
+  },
+  "12.899316,77.651296": {
+    "pincode": "560102",
+    "area": "Agara"
+  },
+  "12.9026566,77.6613229": {
+    "pincode": "560103",
+    "area": "Haralur"
+  },
+  "12.908418,77.67613": {
+    "pincode": "560035",
+    "area": "Kasavanahalli"
+  },
+  "12.91703243,77.49891252": {
+    "pincode": "560059",
+    "area": "Mylasandra"
+  },
+  "12.9199,77.5192": {
+    "pincode": "560098",
+    "area": "Rajarajeshwari Nagar"
+  },
+  "12.914745,77.559864": {
+    "pincode": "560070",
+    "area": "Kadirenahalli"
+  },
+  "12.91322648,77.57300634": {
+    "pincode": "560078",
+    "area": "Banashankari Temple Ward"
+  },
+  "12.91177954,77.60319877": {
+    "pincode": "560076",
+    "area": "N.S Palya"
+  },
+  "12.91183266,77.64398388": {
+    "pincode": "560102",
+    "area": "HSR Layout"
+  },
+  "12.9286633,77.7380822": {
+    "pincode": "560087",
+    "area": "Varthur"
+  },
+  "12.92355387,77.49306732": {
+    "pincode": "560059",
+    "area": "Mylasandra"
+  },
+  "12.9266331,77.60991496": {
+    "pincode": "560029",
+    "area": "Chikka Adugodi"
+  },
+  "12.92504226,77.61740928": {
+    "pincode": "560068",
+    "area": "Madiwala"
+  },
+  "12.939045,77.62645": {
+    "pincode": "560095",
+    "area": "Koramangala"
+  },
+  "12.92066697,77.64927694": {
+    "pincode": "560102",
+    "area": "Iblur"
+  },
+  "12.92153068,77.6778849": {
+    "pincode": "560103",
+    "area": "Shivanasamudra Ward"
+  },
+  "12.91910594,77.69695312": {
+    "pincode": "560103",
+    "area": "Panathur"
+  },
+  "12.934989,77.546885": {
+    "pincode": "560070",
+    "area": "Swamy Vivekananda Ward"
+  },
+  "12.941703,77.580188": {
+    "pincode": "560069",
+    "area": "Ashoka Pillar"
+  },
+  "12.92856098,77.67066436": {
+    "pincode": "560103",
+    "area": "Bellanduru"
+  },
+  "12.931722,77.682389": {
+    "pincode": "560103",
+    "area": "Bellanduru"
+  },
+  "12.93828097,77.6954677": {
+    "pincode": "560103",
+    "area": "Panathur"
+  },
+  "12.93003117,77.70444465": {
+    "pincode": "560103",
+    "area": "Balagere"
+  },
+  "12.93949838,77.72908936": {
+    "pincode": "560087",
+    "area": "Balagere"
+  },
+  "12.958532,77.479896": {
+    "pincode": "560110",
+    "area": "Sir MV Layout"
+  },
+  "12.96170119,77.49901482": {
+    "pincode": "560072",
+    "area": "Mallathahalli"
+  },
+  "12.9444629,77.6181869": {
+    "pincode": "560047",
+    "area": "Koramangala"
+  },
+  "12.94884312,77.68669714": {
+    "pincode": "560017",
+    "area": "Vibhootipura"
+  },
+  "12.960476,77.519569": {
+    "pincode": "560072",
+    "area": "Nagarbhavi"
+  },
+  "12.96845,77.5381": {
+    "pincode": "560040",
+    "area": "Hampi Nagar"
+  },
+  "12.95477912,77.57899927": {
+    "pincode": "560004",
+    "area": "V.V Puram"
+  },
+  "12.96637618,77.60692112": {
+    "pincode": "560025",
+    "area": "Ashokanagar"
+  },
+  "12.962298,77.645909": {
+    "pincode": "560008",
+    "area": "Kodihalli"
+  },
+  "12.94915445,77.70329588": {
+    "pincode": "560037",
+    "area": "Munnenkolalu"
+  },
+  "12.95188627,77.71964524": {
+    "pincode": "560037",
+    "area": "Kundalahalli"
+  },
+  "12.9569822,77.72966019": {
+    "pincode": "560066",
+    "area": "Kundalahalli"
+  },
+  "12.960098,77.559489": {
+    "pincode": "560018",
+    "area": "Chamarajapete"
+  },
+  "12.96657501,77.67172065": {
+    "pincode": "560017",
+    "area": "L.B Shastri Nagar"
+  },
+  "12.96160746,77.70483424": {
+    "pincode": "560037",
+    "area": "Priyadarshini Ward"
+  },
+  "12.96191262,77.71678497": {
+    "pincode": "560037",
+    "area": "Kundalahalli"
+  },
+  "12.96953,77.74954": {
+    "pincode": "560066",
+    "area": "Whitefield"
+  },
+  "12.97486139,77.7718582": {
+    "pincode": "560066",
+    "area": "Bengaluru East City Corporation"
+  },
+  "12.97812065,77.51643345": {
+    "pincode": "560072",
+    "area": "Kottegepalya"
+  },
+  "12.97467998,77.69700174": {
+    "pincode": "560037",
+    "area": "Dodda Nekkundi"
+  },
+  "12.97187036,77.7349202": {
+    "pincode": "560066",
+    "area": "Pattanduru Agrahara"
+  },
+  "12.99005606,77.48523812": {
+    "pincode": "560091",
+    "area": "Herohalli"
+  },
+  "12.983662,77.5487921": {
+    "pincode": "560010",
+    "area": "Dr Rajkumar Ward"
+  },
+  "12.987709,77.561344": {
+    "pincode": "560021",
+    "area": "Da.Ra. Bendre Ward"
+  },
+  "12.99288,77.60675": {
+    "pincode": "560051",
+    "area": "S.K Garden"
+  },
+  "12.97905901,77.67836866": {
+    "pincode": "560093",
+    "area": "Kaggadasapura"
+  },
+  "12.98497,77.71066": {
+    "pincode": "560048",
+    "area": "EPIP Zone"
+  },
+  "12.98612069,77.7450889": {
+    "pincode": "560067",
+    "area": "Pattanduru Agrahara"
+  },
+  "12.98031,77.7509": {
+    "pincode": "560066",
+    "area": "Pattanduru Agrahara"
+  },
+  "13.0031742,77.5308889": {
+    "pincode": "560086",
+    "area": "Raja Mayura Varma Ward"
+  },
+  "13.00264558,77.59946146": {
+    "pincode": "560046",
+    "area": "Jayamahal"
+  },
+  "12.996864,77.673218": {
+    "pincode": "560016",
+    "area": "A Narayanapura"
+  },
+  "12.99616854,77.69103524": {
+    "pincode": "560048",
+    "area": "A Narayanapura"
+  },
+  "12.9951836,77.7201213": {
+    "pincode": "560048",
+    "area": "Hoodi"
+  },
+  "13.010808,77.540878": {
+    "pincode": "560086",
+    "area": "Mahalakshmi Layout"
+  },
+  "13.006655,77.641639": {
+    "pincode": "560043",
+    "area": "Baiyyappanahalli"
+  },
+  "13.015649,77.70943": {
+    "pincode": "560049",
+    "area": "Medahalli"
+  },
+  "13.00442,77.72122": {
+    "pincode": "560049",
+    "area": "Hoodi"
+  },
+  "12.9996667,77.7464722": {
+    "pincode": "560067",
+    "area": "Belathur"
+  },
+  "13.0265,77.558028": {
+    "pincode": "560022",
+    "area": "Mathikere"
+  },
+  "13.01482,77.62778": {
+    "pincode": "560084",
+    "area": "Kacharakanahalli"
+  },
+  "13.0047881,77.6629972": {
+    "pincode": "560043",
+    "area": "Kasturi Nagar"
+  },
+  "13.01020348,77.66771313": {
+    "pincode": "560016",
+    "area": "Kotthur"
+  },
+  "13.01813845,77.6597251": {
+    "pincode": "560043",
+    "area": "Babusab Palya"
+  },
+  "13.03362107,77.68593737": {
+    "pincode": "560036",
+    "area": "Byrathi"
+  },
+  "13.01745885,77.7593783": {
+    "pincode": "560067",
+    "area": "Shigehalli"
+  },
+  "13.02475,77.537306": {
+    "pincode": "560022",
+    "area": "Goraguntepalya"
+  },
+  "13.03273924,77.58054019": {
+    "pincode": "560094",
+    "area": "Bhoopasandra"
+  },
+  "13.02922,77.59377": {
+    "pincode": "560032",
+    "area": "Ganganagar"
+  },
+  "13.0324086,77.61231342": {
+    "pincode": "560032",
+    "area": "Shampura"
+  },
+  "13.02629,77.64364": {
+    "pincode": "560043",
+    "area": "Chellakere"
+  },
+  "13.02716623,77.74726407": {
+    "pincode": "560049",
+    "area": "Doddabanahalli"
+  },
+  "13.049816,77.487928": {
+    "pincode": "560073",
+    "area": "Madhavara"
+  },
+  "13.04549024,77.50877381": {
+    "pincode": "560057",
+    "area": "Nele Maheshwaramma Temple Ward"
+  },
+  "13.039108,77.550843": {
+    "pincode": "560054",
+    "area": "J.P PARK"
+  },
+  "13.03663419,77.62425878": {
+    "pincode": "560045",
+    "area": "Nagavara"
+  },
+  "13.037714,77.650826": {
+    "pincode": "560043",
+    "area": "Horamavu"
+  },
+  "13.03608037,77.66570773": {
+    "pincode": "560016",
+    "area": "Horamavu"
+  },
+  "13.03206661,77.70806469": {
+    "pincode": "560049",
+    "area": "Alehalli"
+  },
+  "13.042529,77.54833": {
+    "pincode": "560013",
+    "area": "Jalahalli"
+  },
+  "13.04753258,77.57837343": {
+    "pincode": "560094",
+    "area": "Bhoopasandra"
+  },
+  "13.038049,77.617309": {
+    "pincode": "560045",
+    "area": "Nagavara"
+  },
+  "13.051424,77.607561": {
+    "pincode": "560024",
+    "area": "Kempapura"
+  },
+  "13.059459,77.622438": {
+    "pincode": "560045",
+    "area": "Jakkur"
+  },
+  "13.063784,77.741966": {
+    "pincode": "560049",
+    "area": "Bommenehalli"
+  },
+  "13.06371941,77.50432545": {
+    "pincode": "560073",
+    "area": "Bagalagunte"
+  },
+  "13.0695733,77.5589887": {
+    "pincode": "560097",
+    "area": "Vidyaranyapura"
+  },
+  "13.05902074,77.58133229": {
+    "pincode": "560092",
+    "area": "Byatarayanapura"
+  },
+  "13.064655,77.609338": {
+    "pincode": "560092",
+    "area": "Amruthahalli"
+  },
+  "13.06274846,77.63500348": {
+    "pincode": "560077",
+    "area": "Sampigehalli"
+  },
+  "13.06382134,77.6492007": {
+    "pincode": "560077",
+    "area": "K Narayanapura"
+  },
+  "13.090409,77.53952": {
+    "pincode": "560097",
+    "area": "Doddabettahalli"
+  },
+  "13.106778,77.580361": {
+    "pincode": "560064",
+    "area": "Yelahanka Satellite Town"
+  },
+  "13.09133919,77.60125138": {
+    "pincode": "560064",
+    "area": "Yelahanka"
+  },
+  "13.07977074,77.64375554": {
+    "pincode": "560077",
+    "area": "K Narayanapura"
+  },
+  "13.10307433,77.63013442": {
+    "pincode": "560064",
+    "area": "Kogilu"
+  },
+  "13.09784,77.56664": {
+    "pincode": "560065",
+    "area": "Attur"
+  },
+  "13.12263575,77.62344754": {
+    "pincode": "560063",
+    "area": "Kogilu"
+  },
+  "13.13749897,77.56327961": {
+    "pincode": "560064",
+    "area": "Avalahalli"
+  },
+  "12.87009657,77.58372383": {
+    "pincode": "560076",
+    "area": "Kothnur"
+  },
+  "12.892833,77.628083": {
+    "pincode": "560068",
+    "area": "Devarachikkanahalli"
+  },
+  "12.885917,77.6083204": {
+    "pincode": "560076",
+    "area": "Arakere"
+  },
+  "12.91025,77.58977": {
+    "pincode": "560078",
+    "area": "Shakambarinagara"
+  },
+  "12.90853465,77.67692834": {
+    "pincode": "560035",
+    "area": "Kasavanahalli"
+  },
+  "12.946167,77.549333": {
+    "pincode": "560050",
+    "area": "Muneshwara Block"
+  },
+  "12.95761396,77.72956081": {
+    "pincode": "",
+    "area": ""
+  },
+  "13.0059977,77.5695793": {
+    "pincode": "560003",
+    "area": "Malleswaram"
+  },
+  "13.02279349,77.68802221": {
+    "pincode": "560016",
+    "area": "Byrathi"
+  },
+  "13.019792,77.724615": {
+    "pincode": "560049",
+    "area": "Medahalli"
+  },
+  "13.03859871,77.64591263": {
+    "pincode": "560043",
+    "area": "Chellakere"
+  },
+  "13.06662468,77.6092697": {
+    "pincode": "560064",
+    "area": "Arkavathy Layout"
+  },
+  "13.074063,77.519827": {
+    "pincode": "560090",
+    "area": "Abbigere"
+  },
+  "17.32266369,78.48882528": {
+    "pincode": "500005",
+    "area": "Ward 41 Kanchanbagh"
+  },
+  "17.34588938,78.52279126": {
+    "pincode": "500659",
+    "area": "Ward 38 IS Sadan"
+  },
+  "17.33527595,78.55255546": {
+    "pincode": "500074",
+    "area": "Vanasthalipuram"
+  },
+  "17.336359,78.571198": {
+    "pincode": "500070",
+    "area": "Vanasthalipuram"
+  },
+  "17.3570581,78.3854925": {
+    "pincode": "500091",
+    "area": "Sri Venkateswara Colony"
+  },
+  "17.3493007,78.4177916": {
+    "pincode": "500052",
+    "area": "Ward 57 Suleman Nagar"
+  },
+  "17.3256389,78.4500278": {
+    "pincode": "500077",
+    "area": "Ward 58 Shastripuram"
+  },
+  "17.35383641,78.36980127": {
+    "pincode": "500086",
+    "area": ""
+  },
+  "17.366977,78.492063": {
+    "pincode": "500024",
+    "area": "Ward 29 Chawni"
+  },
+  "17.3671867,78.5207456": {
+    "pincode": "500659",
+    "area": "Gaddiannaram"
+  },
+  "17.35207396,78.5543485": {
+    "pincode": "500963",
+    "area": "LB Nagar"
+  },
+  "17.36568314,78.42128094": {
+    "pincode": "500048",
+    "area": "Attapur"
+  },
+  "17.373297,78.543314": {
+    "pincode": "",
+    "area": ""
+  },
+  "17.368778,78.576139": {
+    "pincode": "500068",
+    "area": "Bandlaguda"
+  },
+  "17.390136,78.4553022": {
+    "pincode": "500057",
+    "area": "Mallepally"
+  },
+  "17.37629936,78.5566788": {
+    "pincode": "500060",
+    "area": "Ward 21 Kothapet"
+  },
+  "17.393,78.376462": {
+    "pincode": "500089",
+    "area": "Narsingi"
+  },
+  "17.394537,78.426308": {
+    "pincode": "500028",
+    "area": "Tolichowki"
+  },
+  "17.3828056,78.43375": {
+    "pincode": "500264",
+    "area": "Ward 65 Karwan"
+  },
+  "17.39430829,78.48648504": {
+    "pincode": "500095",
+    "area": "Narayanguda"
+  },
+  "17.3956491,78.52678736": {
+    "pincode": "500013",
+    "area": "Habsiguda"
+  },
+  "17.383792,78.341412": {
+    "pincode": "500075",
+    "area": "Kokapet"
+  },
+  "17.39326289,78.35983441": {
+    "pincode": "500089",
+    "area": "Narsingi"
+  },
+  "17.4053611,78.4071667": {
+    "pincode": "500096",
+    "area": "Tolichowki"
+  },
+  "17.3948246,78.5003449": {
+    "pincode": "500027",
+    "area": "Barkatpura"
+  },
+  "17.399693,78.542595": {
+    "pincode": "500013",
+    "area": "Ward 9 Ramanthapur"
+  },
+  "17.407021,78.569405": {
+    "pincode": "500039",
+    "area": "Ward 10 Uppal"
+  },
+  "17.403365,78.592185": {
+    "pincode": "500098",
+    "area": "Peerzadiguda"
+  },
+  "17.40248658,78.38178394": {
+    "pincode": "500089",
+    "area": "Manikonda"
+  },
+  "17.40773315,78.44162204": {
+    "pincode": "500034",
+    "area": "Ward 93 Banjara Hills"
+  },
+  "17.4074167,78.4824722": {
+    "pincode": "500029",
+    "area": "Kavadiguda"
+  },
+  "17.40636658,78.50750374": {
+    "pincode": "500044",
+    "area": "Ward 85 Adikmet"
+  },
+  "17.41181071,78.34279672": {
+    "pincode": "500075",
+    "area": "Financial District"
+  },
+  "17.41368,78.377369": {
+    "pincode": "500104",
+    "area": "Manikonda"
+  },
+  "17.41484441,78.45113748": {
+    "pincode": "500034",
+    "area": "Banjara Hills"
+  },
+  "17.424047,78.412773": {
+    "pincode": "500033",
+    "area": "Jubilee Hills"
+  },
+  "17.4221303,78.5012416": {
+    "pincode": "500025",
+    "area": "Zamistanpur"
+  },
+  "17.433454,78.555628": {
+    "pincode": "500076",
+    "area": "Nacharam"
+  },
+  "17.4193227,78.5720739": {
+    "pincode": "500039",
+    "area": "Boduppal"
+  },
+  "17.432703,78.597353": {
+    "pincode": "500092",
+    "area": "Boduppal"
+  },
+  "17.436627,78.643496": {
+    "pincode": "501301",
+    "area": ""
+  },
+  "17.4317775,78.3734138": {
+    "pincode": "996544",
+    "area": "Madhapur"
+  },
+  "17.43025162,78.43601941": {
+    "pincode": "500073",
+    "area": "Jubilee Hills"
+  },
+  "17.44463251,78.46286575": {
+    "pincode": "500133",
+    "area": "Begumpet"
+  },
+  "17.435793,78.483413": {
+    "pincode": "500003",
+    "area": "Ward 148 Ramgopalpet"
+  },
+  "17.441291,78.563521": {
+    "pincode": "500076",
+    "area": "Moula Ali"
+  },
+  "17.44529653,78.35592404": {
+    "pincode": "500032",
+    "area": "Ward 106 Serilingampally"
+  },
+  "17.4396869,78.3964842": {
+    "pincode": "800081",
+    "area": "HITEC City"
+  },
+  "17.450874,78.422597": {
+    "pincode": "500018",
+    "area": "Borabanda"
+  },
+  "17.4499448,78.45024532": {
+    "pincode": "500042",
+    "area": "Balkampet"
+  },
+  "17.448543,78.508933": {
+    "pincode": "500026",
+    "area": "Marredpally mandal"
+  },
+  "17.4494167,78.5314167": {
+    "pincode": "500017",
+    "area": "Ward 141 Gautham Nagar"
+  },
+  "17.4514128,78.3901131": {
+    "pincode": "500081",
+    "area": "HITEC City"
+  },
+  "17.45501576,78.3965608": {
+    "pincode": "800081",
+    "area": "HITEC City"
+  },
+  "17.462265,78.561768": {
+    "pincode": "500040",
+    "area": "Ward 138 Moula Ali"
+  },
+  "17.46043491,78.35278414": {
+    "pincode": "500084",
+    "area": "Masjid Banda"
+  },
+  "17.46759483,78.36751091": {
+    "pincode": "500084",
+    "area": "Kondapur"
+  },
+  "17.45930686,78.42360236": {
+    "pincode": "500018",
+    "area": "Moosapet"
+  },
+  "17.471487,78.48217": {
+    "pincode": "500011",
+    "area": ""
+  },
+  "17.4687763,78.545844": {
+    "pincode": "500056",
+    "area": "Moula Ali"
+  },
+  "17.47037888,78.35928345": {
+    "pincode": "500084",
+    "area": "Kothaguda"
+  },
+  "17.4733889,78.4246389": {
+    "pincode": "500047",
+    "area": "Ward 115 Balaji Nagar"
+  },
+  "17.4745243,78.4985598": {
+    "pincode": "500015",
+    "area": "Ward 135 Venkatapuram"
+  },
+  "17.48880868,78.38138731": {
+    "pincode": "500085",
+    "area": "KPHB Colony"
+  },
+  "17.4854021,78.3895281": {
+    "pincode": "500085",
+    "area": "Ward 114 KPHB Colony"
+  },
+  "17.48913882,78.41357257": {
+    "pincode": "500047",
+    "area": "Kukatpally"
+  },
+  "17.49343878,78.42433866": {
+    "pincode": "500047",
+    "area": "Ward 121 Kukatpally"
+  },
+  "17.4829801,78.5417257": {
+    "pincode": "500056",
+    "area": "AS Rao Nagar"
+  },
+  "17.49290969,78.35278853": {
+    "pincode": "500049",
+    "area": "Madinaguda"
+  },
+  "17.506794,78.46656": {
+    "pincode": "500009",
+    "area": "Ward 130 Subash Nagar"
+  },
+  "17.5027568,78.54592262": {
+    "pincode": "500094",
+    "area": "Yapral"
+  },
+  "17.5013263,78.5877951": {
+    "pincode": "500083",
+    "area": "Saket"
+  },
+  "17.5042463,78.3585064": {
+    "pincode": "500049",
+    "area": "Miyapur"
+  },
+  "17.5056111,78.3914722": {
+    "pincode": "500085",
+    "area": "Satavahana Nagar"
+  },
+  "17.5060386,78.4083068": {
+    "pincode": "500072",
+    "area": "Ward 124 Alwyn Colony"
+  },
+  "17.51427474,78.48976788": {
+    "pincode": "500100",
+    "area": "Ward 133 Macha Bolarum"
+  },
+  "17.51580559,78.38155987": {
+    "pincode": "500090",
+    "area": "Nizampet"
+  },
+  "17.5265278,78.5129444": {
+    "pincode": "500100",
+    "area": "Bolarum"
+  },
+  "17.529276,78.357285": {
+    "pincode": "500090",
+    "area": "Bachupally mandal"
+  },
+  "17.52218217,78.37476449": {
+    "pincode": "500090",
+    "area": "Nizampet"
+  },
+  "17.53127614,78.39400556": {
+    "pincode": "501002",
+    "area": "Pragathi Nagar"
+  },
+  "17.526245,78.428032": {
+    "pincode": "500055",
+    "area": "Gajularamaram"
+  },
+  "17.526434,78.484016": {
+    "pincode": "500100",
+    "area": ""
+  },
+  "17.542619,78.47593963": {
+    "pincode": "500014",
+    "area": "Doolapally"
+  },
+  "17.53993,78.3660868": {
+    "pincode": "500090",
+    "area": "Bachupally mandal"
+  },
+  "17.5585283,78.3612617": {
+    "pincode": "502325",
+    "area": "Mallampet"
+  },
+  "17.5660556,78.4802222": {
+    "pincode": "500014",
+    "area": ""
+  },
+  "18.44510808,73.88534402": {
+    "pincode": "411048",
+    "area": ""
+  },
+  "18.4485458,73.8363517": {
+    "pincode": "411046",
+    "area": ""
+  },
+  "18.44904007,73.91126583": {
+    "pincode": "411060",
+    "area": ""
+  },
+  "18.45723905,73.7871817": {
+    "pincode": "411024",
+    "area": "Shivane"
+  },
+  "18.470199,73.891835": {
+    "pincode": "411048",
+    "area": "Wanawadi"
+  },
+  "18.46877196,73.90035156": {
+    "pincode": "411018",
+    "area": "Kondhwa"
+  },
+  "18.48067137,73.92812434": {
+    "pincode": "411028",
+    "area": "Krushna Nagar"
+  },
+  "18.481515,73.825156": {
+    "pincode": "411051",
+    "area": "Tukai Nagar"
+  },
+  "18.49061505,73.78994295": {
+    "pincode": "411051",
+    "area": "Warje"
+  },
+  "18.500078,73.79577": {
+    "pincode": "411051",
+    "area": "Warje"
+  },
+  "18.503927,73.815033": {
+    "pincode": "411051",
+    "area": "Karve Nagar"
+  },
+  "18.4877462,73.9525255": {
+    "pincode": "411028",
+    "area": ""
+  },
+  "18.51127658,73.94451072": {
+    "pincode": "411028",
+    "area": ""
+  },
+  "18.5189577,73.76990496": {
+    "pincode": "411021",
+    "area": "Bavdhan Budruk"
+  },
+  "18.52101836,73.93595721": {
+    "pincode": "411036",
+    "area": ""
+  },
+  "18.53356905,73.88536766": {
+    "pincode": "411001",
+    "area": "Ghorpuri"
+  },
+  "18.55383756,73.90595708": {
+    "pincode": "411011",
+    "area": "Harinagar"
+  },
+  "18.533524,73.9423298": {
+    "pincode": "411001",
+    "area": "Keshav Nagar"
+  },
+  "18.54213424,73.78940136": {
+    "pincode": "411001",
+    "area": "Pashan"
+  },
+  "18.5503786,73.8097831": {
+    "pincode": "411027",
+    "area": "Aundh"
+  },
+  "18.54711,73.931427": {
+    "pincode": "411001",
+    "area": "Ward 12"
+  },
+  "18.54871,73.94934": {
+    "pincode": "411023",
+    "area": "Keshav Nagar"
+  },
+  "18.55062493,73.7632809": {
+    "pincode": "411405",
+    "area": "Sus Gaon"
+  },
+  "18.5640721,73.7691598": {
+    "pincode": "411001",
+    "area": "Baner"
+  },
+  "18.565983,73.7922303": {
+    "pincode": "411027",
+    "area": "Pimple Nilakh"
+  },
+  "18.57984812,73.884976": {
+    "pincode": "411001",
+    "area": "Ward 1"
+  },
+  "18.56733646,73.90759408": {
+    "pincode": "411014",
+    "area": "Ward 6"
+  },
+  "18.56396746,73.95438124": {
+    "pincode": "411023",
+    "area": "Kharadi"
+  },
+  "18.57223717,73.7537584": {
+    "pincode": "411057",
+    "area": "Wakad gaav"
+  },
+  "18.58613853,73.82183101": {
+    "pincode": "411061",
+    "area": "Pimple Gurav"
+  },
+  "18.58198863,73.7401389": {
+    "pincode": "411057",
+    "area": "Hinjawadi"
+  },
+  "18.581723,73.767667": {
+    "pincode": "411001",
+    "area": "Balewadi"
+  },
+  "18.597253,73.765": {
+    "pincode": "411071",
+    "area": "Bhujbal Chowk"
+  },
+  "18.6039,73.791804": {
+    "pincode": "411017",
+    "area": "Rahatani"
+  },
+  "18.59958313,73.90875236": {
+    "pincode": "411047",
+    "area": ""
+  },
+  "18.6060224,73.7556266": {
+    "pincode": "410005",
+    "area": "Bhujbal Chowk"
+  },
+  "18.61247389,73.91337569": {
+    "pincode": "411047",
+    "area": ""
+  },
+  "18.59941717,73.73563016": {
+    "pincode": "411057",
+    "area": "Hinjawadi"
+  },
+  "18.6328,73.80276": {
+    "pincode": "411089",
+    "area": "Ajmera"
+  },
+  "18.61789848,73.85725457": {
+    "pincode": "411031",
+    "area": "Bhosari"
+  },
+  "18.64149294,73.75666901": {
+    "pincode": "412110",
+    "area": ""
   }
 }

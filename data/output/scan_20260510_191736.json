@@ -1,0 +1,52 @@
+{
+  "product_url": "https://www.zepto.com/pn/apple-airpods-4-wireless-earbuds/pvid/e93342e3-3405-40ee-8061-b785bb089754",
+  "scanned_at": "2026-05-10T19:17:36.415601",
+  "total_stores": 3,
+  "results": [
+    {
+      "store_name": "GGN-Sector 95",
+      "store_lat": 28.410694,
+      "store_lng": 76.90725,
+      "pincode": "122505",
+      "area": "Sector 92",
+      "product_name": null,
+      "mrp": null,
+      "selling_price": null,
+      "discount_pct": null,
+      "in_stock": null,
+      "delivery_eta": null,
+      "scanned_at": "2026-05-10T19:15:27.826981",
+      "error": "No suggestions for pin 122505"
+    },
+    {
+      "store_name": "GGN-Sector 86",
+      "store_lat": 28.394882,
+      "store_lng": 76.933179,
+      "pincode": "122050",
+      "area": "Sector 87",
+      "product_name": null,
+      "mrp": null,
+      "selling_price": null,
+      "discount_pct": null,
+      "in_stock": null,
+      "delivery_eta": null,
+      "scanned_at": "2026-05-10T19:16:10.156791",
+      "error": "No suggestions for pin 122050"
+    },
+    {
+      "store_name": "GGN-Sector 70 A",
+      "store_lat": 28.38621,
+      "store_lng": 77.02198,
+      "pincode": "122015",
+      "area": "Sector 70A",
+      "product_name": null,
+      "mrp": null,
+      "selling_price": null,
+      "discount_pct": null,
+      "in_stock": null,
+      "delivery_eta": null,
+      "scanned_at": "2026-05-10T19:16:52.539387",
+      "error": "No suggestions for pin 122015"
+    }
+  ]
+}
